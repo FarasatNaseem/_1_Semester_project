@@ -1,0 +1,114 @@
+body {
+    padding-top: 50px;
+}
+
+#anfang {
+    background: url(header_background.jpg) no-repeat top;
+    background-size: cover;
+    min-height: 450px;
+    background-attachment: fixed;
+}
+
+#ueberschrift1 {
+    color: rgba(15, 15, 15, 0.5);
+    background-color: rgb(61, 153, 122);
+    padding: 10px;
+    vertical-align: auto;
+    border-radius: 5px;
+    
+
+}
+
+#beispieltext {
+    color: white;
+    font-size: 1.5em;
+}
+
+
+
+#formular{
+    margin: 50px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    width: 60%;
+    height: auto;
+    background-color: rgb(182, 182, 182);
+    
+}
+#register{
+    margin: 50px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    width: 60%;
+    height: auto;
+    background-color: rgb(182, 182, 182);
+}
+#login{
+    margin: 50px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    width: 60%;
+    height: auto;
+    background-color: rgb(182, 182, 182);
+    
+}
+#update{
+    margin: 50px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    width: 60%;
+    height: auto;
+    background-color: rgb(182, 182, 182);
+    
+}
+
+
+#Nachricht{
+    height: 100px;
+
+}
+
+
+
+
+
+.col-md-4,
+.col-md-2 {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 5px;
+    
+}
+
+.center {
+    text-align: center;
+    
+  }
+.left{
+    text-align:left;
+}
+
+
+#pinn{
+    margin: 50px;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    width: 60%;
+    height: auto;
+    background-color: rgb(182, 182, 182);
+}
+
+.button_comment{
+    width: 25%;
+}
